@@ -26,6 +26,6 @@ https://github.com/talljohnson/hassio-addons
 
 ## <a name='addons'></a>List of add-ons
 
-- [Remote Backup][remote-backup]: automatically create Hass.io to remote server location using `SCP`.
+- [Inspirational Images][inspirationalimages]: use inspirobot.me Artificial Intelligence to periodically create inspirational image for display in Hass.io.
 
 [inspirationalimages]: https://github.com/talljohnson/inspirationalimages
